@@ -9,3 +9,14 @@ F:\代码库\计时器\Timer_CS\obj\Debug\Timer_CS.pdb
 F:\代码库\计时器\Timer_CS\obj\Debug\Timer_CS.WinTimer.resources
 F:\代码库\计时器\Timer_CS\bin\Debug\MyTimer.dll
 F:\代码库\计时器\Timer_CS\bin\Debug\MyTimer.pdb
+F:\代码库\计时器Timer\Timer_CS\bin\Debug\Timer_CS.exe.config
+F:\代码库\计时器Timer\Timer_CS\obj\Debug\Timer_CS.exe
+F:\代码库\计时器Timer\Timer_CS\obj\Debug\Timer_CS.pdb
+F:\代码库\计时器Timer\Timer_CS\bin\Debug\Timer_CS.exe
+F:\代码库\计时器Timer\Timer_CS\bin\Debug\Timer_CS.pdb
+F:\代码库\计时器Timer\Timer_CS\bin\Debug\MyTimer.dll
+F:\代码库\计时器Timer\Timer_CS\bin\Debug\MyTimer.pdb
+F:\代码库\计时器Timer\Timer_CS\obj\Debug\Timer_CS.csprojResolveAssemblyReference.cache
+F:\代码库\计时器Timer\Timer_CS\obj\Debug\Timer_CS.WinTimer.resources
+F:\代码库\计时器Timer\Timer_CS\obj\Debug\Timer_CS.Properties.Resources.resources
+F:\代码库\计时器Timer\Timer_CS\obj\Debug\Timer_CS.csproj.GenerateResource.Cache

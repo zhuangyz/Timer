@@ -4,3 +4,9 @@ F:\代码库\计时器\MyTimer\bin\Debug\MyTimer.dll
 F:\代码库\计时器\MyTimer\bin\Debug\MyTimer.pdb
 F:\代码库\计时器\MyTimer\obj\Debug\MyTimer.dll
 F:\代码库\计时器\MyTimer\obj\Debug\MyTimer.pdb
+F:\代码库\计时器Timer\MyTimer\bin\Debug\MyTimer.dll.config
+F:\代码库\计时器Timer\MyTimer\bin\Debug\MyTimer.dll
+F:\代码库\计时器Timer\MyTimer\bin\Debug\MyTimer.pdb
+F:\代码库\计时器Timer\MyTimer\obj\Debug\MyTimer.csprojResolveAssemblyReference.cache
+F:\代码库\计时器Timer\MyTimer\obj\Debug\MyTimer.dll
+F:\代码库\计时器Timer\MyTimer\obj\Debug\MyTimer.pdb
